@@ -1,0 +1,16 @@
+{
+  "name": "twentysixteen-sassified",
+  "version": "1.0.0",
+  "description": "Gulp file for the sassified version of the TwentySixteen theme.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andy Stitt",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^2.0.12",
+    "gulp-sass": "^2.3.2"
+  }
+}
